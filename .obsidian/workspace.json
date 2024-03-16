@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "244735fc4d486e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5c1760ac9e8921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f47657a5298f54dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b510162d6ed8977",
+    "type": "split",
+    "children": [
+      {
+        "id": "145c4e6e45188ff5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fed34c8568a7582",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97463c0e495412a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb9b7425dd96a1e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "969624bf0a44b35b",
+    "type": "split",
+    "children": [
+      {
+        "id": "49700057aa3c772c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6306f0c2cf56b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e3916a796992dec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50eda9fa79fd6839",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93223aa6098d9109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f47657a5298f54dc",
+  "lastOpenFiles": [
+    "GraphQL/Когда вышел GraphQL.md",
+    "GraphQL/Что такое Graph Query Language.md",
+    "GraphQL/Schema Definition Language/Что такое Schema Definition Language GraphQL.md",
+    "GraphQL/Слабые стороны GraphQL.md",
+    "GraphQL/Сильные стороны GraphQL.md",
+    "GraphQL/Кто создал GraphQL.md",
+    "GraphQL/Зачем нужен GraphQL.md",
+    "Photos/GraphQL-SDL-ReplIT.png",
+    "Photos/GraphQL-Preview.png",
+    "GraphQL/Schema Definition Language",
+    "Pasted image 20240316195013.png",
+    "Photos/GraphQL-Book-1.jpeg",
+    "Photos/GraphQL-Logo.png",
+    "Photos",
+    "GraphQL"
+  ]
+}
