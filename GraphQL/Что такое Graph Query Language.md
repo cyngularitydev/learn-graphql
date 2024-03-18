@@ -13,7 +13,7 @@
         style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
         src="https://www.litres.ru/pub/c/cover/64085636.jpg"
       />
-      <strong><a href="https://vk.com/wall-105439414_390">книга Алекс Бэнкс, Ева Порселло "GraphQL: Язык запросов для современных веб-приложений" (2019)</a></strong>
+      <strong><a href="https://vk.com/wall-105439414_390">Книга Алекс Бэнкс, Ева Порселло "GraphQL: Язык запросов для современных веб-приложений" (2019)</a></strong>
     </li>
   </ul>
 </div>
@@ -26,25 +26,14 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="128" />
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: right; flex-grow: 1;">
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Кто создал GraphQL">Кто создал GraphQL</a></strong>
-	</li>
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Когда вышел GraphQL">Когда вышел GraphQL</a></strong>
-	</li>
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Зачем нужен GraphQL">Зачем нужен GraphQL</a></strong>
-	</li>
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Сильные стороны GraphQL">Сильные стороны GraphQL</a></strong>
-	</li>
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Слабые стороны GraphQL">Слабые стороны GraphQL</a></strong>
-	</li>
-    <li>
-	    <strong><a href="obsidian://open?file=GraphQL/Schema Definition Language/Что такое Schema Definition Language GraphQL">Что такое Schema Definition Language GraphQL</a></strong>
-	</li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Кто создал GraphQL">Кто создал GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Когда вышел GraphQL">Когда вышел GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Зачем нужен GraphQL">Зачем нужен GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Сильные стороны GraphQL">Сильные стороны GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Слабые стороны GraphQL">Слабые стороны GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=GraphQL/Какие компании используют GraphQL">Какие компании используют GraphQL</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Schema Definition Language/Что такое Schema Definition Language GraphQL">Что такое Schema Definition Language GraphQL</a></strong></li>
   </ul>
 </div>
-<h3 align="left">Тэги</h3>
+<h2 align="left">Тэги</h2>
 #graphql 

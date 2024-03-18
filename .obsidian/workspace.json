@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5c1760ac9e8921",
+        "id": "be5b0f9fafdca4b8",
         "type": "tabs",
         "children": [
           {
-            "id": "f47657a5298f54dc",
+            "id": "3a88fb1be69215a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md"
+              }
             }
           }
         ]
@@ -138,18 +146,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f47657a5298f54dc",
+  "active": "3a88fb1be69215a0",
   "lastOpenFiles": [
-    "GraphQL/Когда вышел GraphQL.md",
-    "GraphQL/Что такое Graph Query Language.md",
-    "GraphQL/Schema Definition Language/Что такое Schema Definition Language GraphQL.md",
     "GraphQL/Слабые стороны GraphQL.md",
-    "GraphQL/Сильные стороны GraphQL.md",
-    "GraphQL/Кто создал GraphQL.md",
+    "GraphQL/Что такое Graph Query Language.md",
+    "Текстовый документ.txt",
+    "Schema Definition Language/Что такое Schema Definition Language GraphQL.md",
     "GraphQL/Зачем нужен GraphQL.md",
+    "GraphQL/Какие компании используют GraphQL.md",
+    "GraphQL/Когда вышел GraphQL.md",
+    "GraphQL/Кто создал GraphQL.md",
+    "GraphQL/Сильные стороны GraphQL.md",
+    "yelp.png",
+    "Pasted image 20240316220140.png",
     "Photos/GraphQL-SDL-ReplIT.png",
     "Photos/GraphQL-Preview.png",
-    "GraphQL/Schema Definition Language",
+    "Schema Definition Language",
     "Pasted image 20240316195013.png",
     "Photos/GraphQL-Book-1.jpeg",
     "Photos/GraphQL-Logo.png",

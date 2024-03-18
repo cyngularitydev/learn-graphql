@@ -11,13 +11,15 @@
   </ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div align="center">
-	<ul style="list-style-type: none">
-		<li><strong><p>Отсутствие серверного кэширования</p></strong></li>
-		<li><strong><p>Отсутствие привычных статус-кодов</p></strong></li>
-		<li><strong><p>Размытые лимиты запросов</p></strong></li>
-	</ul>
-</div>
+
+<center>
+	<img style="border-radius: 8px" src="https://www.applezein.net/wp-content/uploads/2019/05/Schermata-2019-05-09-alle-20.47.19.png" />
+	<img style="border-radius: 8px" src="https://www.gettimely.com/wp-content/uploads/2014/10/timely-social-twitter-1400x800.png" />
+	<img style="border-radius: 8px" src="https://thecommunity.ru/uploads/posts/2019-01/1546891449_2.jpg" />
+	<img style="border-radius: 8px" src="https://worldea.org/secgen/wp-content/uploads/2022/02/The-New-York-Times-Logo.png" />
+	<img style="border-radius: 8px" src="https://avatars.dzeninfra.ru/get-zen_doc/28532/pub_5b8fbfce763f6d00ae3ed8aa_5b8fbfda92a50c00aa087eb4/scale_1200" />
+	<img style="border-radius: 8px" src="https://cdn.mypanel.link/r8q4hf/pa0f52f3e1q1l2e8.png" />
+</center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
@@ -25,4 +27,4 @@
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#graphql 
+#graphql #facebook #twitter #github #thenewyorktimes #ibm #yelp 
