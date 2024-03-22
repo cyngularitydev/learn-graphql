@@ -31,5 +31,8 @@
     "iconName": "SiGraphql",
     "iconColor": "#ff00ac"
   },
-  "Schema Definition Language": "TiSchema"
+  "Schema Definition Language": {
+    "iconName": "TiSchema",
+    "iconColor": "#2eff79"
+  }
 }

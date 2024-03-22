@@ -8,13 +8,38 @@
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div style="text-align: center;">
-	<ul style="display: inline-block; text-align: left;">
-		<li><strong>Отсутствие серверного кэширования</strong></li>
-		<li><strong>Отсутствие привычных статус-кодов</strong></li>
-		<li><strong>Размытые лимиты запросов</strong></li>
-	</ul>
-</div>
+<center>
+	<table style="border: #7DCFFF 2px solid; border-radius: 8px">
+		<thead>
+			<tr>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">REST, gRPC, etc.</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">GraphQL</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">SQL</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">Формат данных</td>
+				<td align="center">Выборка данных</td>
+				<td align="center">Выборка данных</td>
+			</tr>
+			<tr>
+				<td align="center">Методы</td>
+				<td align="center">Определения</td>
+			</tr>
+			<tr>
+				<td align="center">Конечные точки</td>
+				<td align="center">Язык запросов</td>
+				<td align="center">Язык запросов</td>
+			</tr>
+			<tr>
+				<td align="center">GET, POST, PUT, PATCH, DELETE</td>
+				<td align="center">Query, Mutation</td>
+				<td align="center">INSERT, SELECT, UPDATE, DELETE</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
@@ -22,4 +47,4 @@
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#graphql 
+#graphql #rest #sql

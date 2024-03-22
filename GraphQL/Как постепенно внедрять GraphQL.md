@@ -8,13 +8,9 @@
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div style="text-align: center;">
-	<ul style="display: inline-block; text-align: left;">
-		<li><strong>Отсутствие серверного кэширования</strong></li>
-		<li><strong>Отсутствие привычных статус-кодов</strong></li>
-		<li><strong>Размытые лимиты запросов</strong></li>
-	</ul>
-</div>
+<blockquote align="center">
+	<strong>Получая данные через RESTful API</strong>
+</blockquote>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
