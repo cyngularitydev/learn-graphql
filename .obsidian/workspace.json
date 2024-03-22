@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5cc677e3530f9844",
+        "id": "aae1386f4e77bc13",
         "type": "tabs",
         "children": [
           {
-            "id": "5480d1c0e4d3cee3",
+            "id": "cee145656f6a896b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GraphQL/Что такое Graph Query Language.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0fed34c8568a7582",
+  "active": "cee145656f6a896b",
   "lastOpenFiles": [
     "Schema Definition Language/Что такое Schema Definition Language GraphQL.md",
     "GraphQL/Сильные стороны GraphQL.md",

@@ -12,7 +12,7 @@
 	<strong><p>Декларативный язык описания схемы GraphQL</p></strong>
 </blockquote>
 <center>
-	<img style="border-radius: 8px;" src="http://archives.interstellar.su/1/018e6789-9718-7458-b06a-f16ec5e594c2.png" />
+	<img style="border-radius: 8px;" src="http://archives.interstellar.su/1/2024/03/23/018e6789-9718-7458-b06a-f16ec5e594c2.png" />
 </center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
