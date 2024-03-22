@@ -29,7 +29,7 @@
   },
   "GraphQL": {
     "iconName": "SiGraphql",
-    "iconColor": "#e535ab"
+    "iconColor": "#ff00ac"
   },
   "Schema Definition Language": "TiSchema"
 }

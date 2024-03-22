@@ -23,8 +23,8 @@
 </blockquote>
 <img align="center" style="border-radius: 8px;" src="https://scoopcar.com/wp-content/uploads/2020/08/graph.png" />
 <h2 align="right">Ключи</h2>
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="128" />
+<div style="display: flex; align-items: center;">
+  <img style="border-radius: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="50%" />
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: right; flex-grow: 1;">
     <li><strong><a href="obsidian://open?file=GraphQL/Кто создал GraphQL">Кто создал GraphQL</a></strong></li>
     <li><strong><a href="obsidian://open?file=GraphQL/Когда вышел GraphQL">Когда вышел GraphQL</a></strong></li>

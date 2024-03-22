@@ -11,11 +11,11 @@
   </ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div align="center">
-	<ul style="list-style-type: none">
-		<li><strong><p>Отсутствие серверного кэширования</p></strong></li>
-		<li><strong><p>Отсутствие привычных статус-кодов</p></strong></li>
-		<li><strong><p>Размытые лимиты запросов</p></strong></li>
+<div style="text-align: center;">
+	<ul style="display: inline-block; text-align: left;">
+		<li><strong>Отсутствие серверного кэширования</strong></li>
+		<li><strong>Отсутствие привычных статус-кодов</strong></li>
+		<li><strong>Размытые лимиты запросов</strong></li>
 	</ul>
 </div>
 <h2 align="center">Ключи</h2>

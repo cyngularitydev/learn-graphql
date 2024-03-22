@@ -15,7 +15,7 @@
 	<strong><p>Декларативный язык описания схемы GraphQL</p></strong>
 </blockquote>
 <center>
-	<img style="border-radius: 8px;" src="https://psv4.userapi.com/c909228/u542439242/docs/d38/95ddf40889b3/GraphQL-SDL-ReplIT.png?extra=TpQOX-qd8wpbA1QzCnX6iSBmmhANtz-9VWrnJidyOReJXGXripUAJ2WOoBIQZDcglK1JI784TcbktrqCp64HzfaYIWT3sCBgu4G4buz6lRGgUvRlSdHr2Poxpd6ibcNBogg0tZus8SYOp5cVKZ5Fu075oTQ" />
+	<img style="border-radius: 8px;" src="https://repositories.hb.ru-msk.vkcs.cloud/1/018e6789-9718-7458-b06a-f16ec5e594c2.png" />
 </center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">

@@ -11,10 +11,10 @@
   </ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div align="center">
-	<ul style="list-style-type: none">
-		<li><strong><p>Строгая типизация</p></strong></li>
-		<li><strong><p>Отсутствие чрезмерной/недостаточной выборки</p></strong></li>
+<div style="text-align: center;">
+	<ul style="display: inline-block; text-align: left;">
+		<li><strong>Строгая типизация</strong></li>
+		<li><strong>Отсутствие чрезмерной/недостаточной выборки</strong></li>
 	</ul>
 </div>
 <h2 align="center">Ключи</h2>
